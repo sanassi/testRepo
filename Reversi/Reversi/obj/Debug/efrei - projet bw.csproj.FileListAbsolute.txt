@@ -1,0 +1,5 @@
+C:\Users\Sanassi\Desktop\efrei - projet bw\efrei - projet bw\bin\Debug\efrei___projet_bw.exe
+C:\Users\Sanassi\Desktop\efrei - projet bw\efrei - projet bw\bin\Debug\efrei___projet_bw.pdb
+C:\Users\Sanassi\Desktop\efrei - projet bw\efrei - projet bw\obj\Debug\efrei - projet bw.csprojAssemblyReference.cache
+C:\Users\Sanassi\Desktop\efrei - projet bw\efrei - projet bw\obj\Debug\efrei___projet_bw.exe
+C:\Users\Sanassi\Desktop\efrei - projet bw\efrei - projet bw\obj\Debug\efrei___projet_bw.pdb

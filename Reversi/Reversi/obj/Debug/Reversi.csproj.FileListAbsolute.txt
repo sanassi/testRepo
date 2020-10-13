@@ -1,0 +1,10 @@
+C:\Users\Sanassi\Desktop\Reversi\Reversi\bin\Debug\efrei___projet_bw.exe
+C:\Users\Sanassi\Desktop\Reversi\Reversi\bin\Debug\efrei___projet_bw.pdb
+C:\Users\Sanassi\Desktop\Reversi\Reversi\obj\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\Sanassi\Desktop\Reversi\Reversi\obj\Debug\efrei___projet_bw.exe
+C:\Users\Sanassi\Desktop\Reversi\Reversi\obj\Debug\efrei___projet_bw.pdb
+C:\Users\Sanassi\Documents\EPITA\PROG\Reversi\Reversi\bin\Debug\efrei___projet_bw.exe
+C:\Users\Sanassi\Documents\EPITA\PROG\Reversi\Reversi\bin\Debug\efrei___projet_bw.pdb
+C:\Users\Sanassi\Documents\EPITA\PROG\Reversi\Reversi\obj\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\Sanassi\Documents\EPITA\PROG\Reversi\Reversi\obj\Debug\efrei___projet_bw.exe
+C:\Users\Sanassi\Documents\EPITA\PROG\Reversi\Reversi\obj\Debug\efrei___projet_bw.pdb
